@@ -11,5 +11,8 @@ namespace DL\Controller;
 
 class UserController
 {
+    public function actionInfo()
+    {
 
+    }
 }
