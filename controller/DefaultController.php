@@ -17,6 +17,6 @@ say();
 
     public function actionLogout()
     {
-
+        echo 'logout222';
     }
 }
