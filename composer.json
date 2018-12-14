@@ -1,0 +1,12 @@
+{
+  "autoload":
+  {
+    "psr-4":{
+      "DL\\Controller\\" : "controller/"
+    },
+
+    "files":[
+      "config/DataBaseConfig.php"
+    ]
+  }
+}
