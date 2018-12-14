@@ -13,7 +13,7 @@ class UserController
 {
     public function actionInfo()
     {
-
+        echo json_encode(['name' => 'liujie', 'age' => 20]);
     }
 
     public function actionOrder()
