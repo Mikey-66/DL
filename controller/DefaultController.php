@@ -17,6 +17,11 @@ say();
 
     public function actionLogout()
     {
+        echo 'logout222';
+    }
+
+    public function actionIsLogin()
+    {
 
     }
 }
