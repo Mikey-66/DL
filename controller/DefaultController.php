@@ -19,4 +19,9 @@ say();
     {
         echo 'logout222';
     }
+
+    public function actionIsLogin()
+    {
+
+    }
 }
