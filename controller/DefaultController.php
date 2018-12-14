@@ -14,4 +14,9 @@ say();
     {
 
     }
+
+    public function actionLogout()
+    {
+
+    }
 }
