@@ -23,6 +23,6 @@ class UserController
 
     public function actionVersion()
     {
-        echo '1.1';
+        echo '1.2';
     }
 }
