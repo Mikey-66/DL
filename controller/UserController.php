@@ -28,6 +28,11 @@ class UserController
 
     public function actionCity()
     {
-        'cd1.1';
+        echo 'cd1.1';
+    }
+
+    public function actionNow()
+    {
+
     }
 }
