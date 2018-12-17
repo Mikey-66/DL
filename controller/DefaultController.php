@@ -24,4 +24,9 @@ say();
     {
 
     }
+
+    public function actionVersion()
+    {
+        echo '1.5';
+    }
 }
