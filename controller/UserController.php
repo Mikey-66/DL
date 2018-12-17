@@ -25,4 +25,9 @@ class UserController
     {
         echo '1.6';
     }
+
+    public function actionCity()
+    {
+        'cd1.1';
+    }
 }
