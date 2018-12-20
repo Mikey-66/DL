@@ -34,4 +34,9 @@ say();
     {
 
     }
+
+    public function actionFun2()
+    {
+
+    }
 }
