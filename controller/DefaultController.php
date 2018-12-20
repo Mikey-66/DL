@@ -29,4 +29,14 @@ say();
     {
         echo '1.5';
     }
+
+    public function actionFun1()
+    {
+
+    }
+
+    public function actionFun2()
+    {
+
+    }
 }
