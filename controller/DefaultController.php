@@ -27,7 +27,7 @@ say();
 
     public function actionVersion()
     {
-        echo '1.5';
+        echo '1.6';
     }
 
     public function actionFun1()
